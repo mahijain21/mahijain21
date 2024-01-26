@@ -33,6 +33,6 @@
 <a href="" style="margin=16px">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahijain21&layout=compact&theme=github-dark&langs_count=8" />
 </a>
-<br/>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mahijain21&limit=5&theme=flat&combine_all_yearly_contributions=true)
