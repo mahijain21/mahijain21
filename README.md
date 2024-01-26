@@ -26,4 +26,4 @@
 </br>
 <p><img align="center" width="1000" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=mahijain21&" alt="mahijain21" /></p>
 
-<p>&nbsp;<img align="center" width="1000" height="211" src="https://github-readme-stats.vercel.app/api?username=mahijain21&show_icons=true&locale=en" alt="mahijain21" /></p>
+<p>&nbsp;<img align="center" width="1000" height="210" src="https://github-readme-stats.vercel.app/api?username=mahijain21&show_icons=true&locale=en" alt="mahijain21" /></p>
