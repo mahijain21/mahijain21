@@ -1,6 +1,6 @@
+<img align="center" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h1 align="center">Hello 👋, I'm Mahi Jain</h1>
 <h3 align="center">A passionate Fullstack web developer and Data Science/Analytics enthusiast 👨🏻‍💻</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <a href="https://twitter.com/mahijain_jain" target="blank"><img src="https://img.shields.io/twitter/follow/mahijain_jain?logo=twitter&style=for-the-badge" alt="mahijain_jain" /></a> </p>
 
