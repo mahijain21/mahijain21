@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <h1 align="center">Hello 👋, I'm Mahi Jain</h1>
 <h3 align="center">A passionate Fullstack web developer and Data Science/Analytics enthusiast 👨🏻‍💻</h3>
 
